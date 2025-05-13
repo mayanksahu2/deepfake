@@ -39,23 +39,5 @@ deepfake_webapp/
 - HTML, CSS (for styling)
 
 
----
-
-## 🛠️ How to Run Locally
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/deepfake.git
-cd deepfake
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-python app.py
-
-Visit http://localhost:5000 in your browser.
-
-
 
 
