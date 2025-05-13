@@ -38,25 +38,6 @@ deepfake_webapp/
 - TensorFlow / Keras
 - HTML, CSS (for styling)
 
----
-
-## 📁 Model & Test Videos
-
-🔗 Model and sample test videos are hosted on Google Drive:
-
-👉 [Download Model & Videos](https://drive.google.com/your-google-drive-link)
-
-> Upload the `.h5` model in the root folder as `mobilenetv2_deepfake_model.h5` before running.
-
----
-
-## 📸 Screenshots
-
-Add your screenshots here:
-
-| Upload Video | Prediction Result |
-|--------------|-------------------|
-| ![Upload](screenshots/upload.png) | ![Result](screenshots/result.png) |
 
 ---
 
